@@ -12,7 +12,8 @@ To write a program to predict the marks scored by a student using the simple lin
 2. 
 3. 
 4. 
-
+#Developed by H Mohamed farikh
+#Register number:212223080032
 ## Program:
 ```
 /*
