@@ -63,29 +63,29 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-### Dataset
-![output]![Screenshot 2024-02-27 175746](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/31317b6c-77da-46e8-913c-46c14d3c8e5e)
+Dataset
+[Screenshot 2024-02-27 175746](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/31317b6c-77da-46e8-913c-46c14d3c8e5e)
 
-###df.head
-![output]![Screenshot 2024-02-27 175327](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/f9500330-c2cb-4bc9-a574-de0974b8a53f)
+df.head()
+![Screenshot 2024-02-27 175327](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/f9500330-c2cb-4bc9-a574-de0974b8a53f)
 
-###df.tail
-![output]![Screenshot 2024-02-27 175334](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/70fb9e73-ecf3-4793-bb35-e3620603d5d3)
+f.tail()
+![Screenshot 2024-02-27 175334](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/70fb9e73-ecf3-4793-bb35-e3620603d5d3)
 
-### X and Y values
-![output]![Screenshot 2024-02-27 175346](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/10b4cade-4dd8-4f80-b6a3-a5ea612dc38b)
+X and Y values
+![Screenshot 2024-02-27 175346](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/10b4cade-4dd8-4f80-b6a3-a5ea612dc38b)
 
-### Predication values of X and Y
-![output]![Screenshot 2024-02-27 175355](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/d1db4c18-8c23-488a-a124-1807cd1f0de8)
+Predication values of X and Y
+![Screenshot 2024-02-27 175355](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/d1db4c18-8c23-488a-a124-1807cd1f0de8)
 
 ### MSE,MAE and RMSE
-![output]![Screenshot 2024-02-27 175405](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/2bb8a767-2018-4bd2-b6a0-ee0decbbda84)
+![Screenshot 2024-02-27 175405](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/2bb8a767-2018-4bd2-b6a0-ee0decbbda84)
 
 ### Training Set
-![output]![Screenshot 2024-02-27 175541](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/a8e1d0da-307f-4ada-ae2f-e85cd1cd9143)
+![Screenshot 2024-02-27 175541](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/a8e1d0da-307f-4ada-ae2f-e85cd1cd9143)
 
 ### Testing Set
-![output]![Screenshot 2024-02-27 175617](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/5a41b3d9-dc27-44aa-8974-0388a5d35669)
+![Screenshot 2024-02-27 175617](https://github.com/MOHAMEDFARIKH1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568234/5a41b3d9-dc27-44aa-8974-0388a5d35669)
 
 
 
